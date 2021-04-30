@@ -9,3 +9,18 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+.heading{
+  color: black;
+    text-align: center;
+    font-size: 34px;
+    margin-bottom: 21px;
+    font-family: 'Amatic SC';
+    display: inline-block;
+    padding-left: 36%;
+
+
+}
+.logo {
+  opacity: 0.5;
+  display: inline-block;
+}
