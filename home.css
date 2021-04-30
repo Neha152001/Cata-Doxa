@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+}
+body{
+
+  background: url(background.jpg);
+  background-color: rgba(250,250,250,0.4);
+      background-blend-mode: lighten;
+    background-size: cover;
+    background-attachment: fixed;
+}
