@@ -3,7 +3,7 @@
 }
 body{
 
-  background: url(background.jpg);
+  background: url(background.jpeg);
   background-color: rgba(250,250,250,0.4);
       background-blend-mode: lighten;
     background-size: cover;
